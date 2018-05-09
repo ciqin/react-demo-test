@@ -1,0 +1,24 @@
+.hintContent {
+    max-height :250px;
+    overflow-y: auto;
+    margin-bottom : 30px;
+}
+.data-grid-container {
+    min-width: 100%;
+    display: inline-block;
+}
+
+.data-grid-container .data-grid {
+    min-width: 100%;
+}
+
+.data-grid-container .data-grid .cell > input {
+    width : 100%;
+    height : 16px;
+}
+
+#btn {
+    height : 40px;
+    width : 40px;
+    background: blue;
+}

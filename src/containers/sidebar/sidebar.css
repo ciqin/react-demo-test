@@ -1,0 +1,33 @@
+p {
+    color: #000;
+}
+.out-sidebar {
+    height : 100%;
+    box-sizing: border-box;
+    width:300px;
+    padding-top: 50px;
+}
+
+.sidebar {
+    padding: 40px ;
+    box-sizing: border-box;
+    height:100%;
+    overflow-y: auto;
+}
+.sidebar .title {
+    margin-bottom: 30px;
+}
+
+.sidebar .chart-item {
+    min-height:25px;
+    padding-left:10px;
+    line-height:25px;
+    box-sizing: border-box;
+    width:100%;
+    cursor:pointer;
+}
+
+.selectStyle {
+    background:rgb(229,240,251);
+    border: 1px solid rgb(64,113,175);
+}

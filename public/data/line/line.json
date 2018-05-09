@@ -1,0 +1,19 @@
+{
+    "columns": [
+        "TIMI",
+        "GRACE",
+        "Baseline Model",
+        "Our Model"
+    ],
+    "index": [
+        "AUROC"
+    ],
+    "data": [
+        [
+            0.764,
+            0.775,
+            0.804,
+            0.869
+        ]
+    ]
+}

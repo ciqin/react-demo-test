@@ -1,0 +1,6 @@
+{
+	"index": ["Derived Feature", "Feature with Missing Values", "Feature with Dirty Values", "Available Feature"], 
+	"columnTypes": ["Number", "Number", "Number", "Number", "Number", "Number"], 
+	"data": [[null,null,null,0,111,22], [97,186,0,null,null,null], [116,25,0,null,null,null], [10,12,167,107,107,24]], 
+	"columns": ["Original Data", "Data Cleansing", "Data Imputation", "Feature Pre-selection", "Feature Construction", "Feature Selection"]
+}

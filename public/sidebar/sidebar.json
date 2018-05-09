@@ -1,0 +1,84 @@
+{
+    "titleArr": [
+        "目录",
+        "文档",
+        "登录",
+        "注册"
+    ],
+    "sidebarArr": [
+        {
+            "mTitle": "bar",
+            "cTitle": [
+                {
+                    "name": "TimeBar",
+                    "data": "bar/_column.json"
+                },
+                {
+                    "name": "Spline",
+                    "data": "bar/_spline.json"
+                }
+            ]
+        },
+        {
+            "mTitle": "pie",
+            "cTitle": [
+                {
+                    "name": "RingPie",
+                    "data": "pie/pie.json"
+                }
+            ]
+        },
+        {
+            "mTitle": "boxPlot",
+            "cTitle": [
+                {
+                    "name": "Boxplot",
+                    "data": "boxplot/_boxplot.json"
+                }
+            ]
+        },
+        {
+            "mTitle": "line",
+            "cTitle": [
+                {
+                    "name": "area-stacked",
+                    "data": "line/feature_number.json"
+                },
+                {
+                    "name": "broken-line",
+                    "data": "line/time_series.json"
+                },
+                {
+                    "name": "line-lable",
+                    "data": "line/line_label.json"
+                }
+            ]
+        },
+        {
+            "mTitle": "scatter",
+            "cTitle": [
+                {
+                    "name": "3d-scatter",
+                    "data": "scatter/scatter-3d.json"
+                },
+                {
+                    "name": "2d-scatter",
+                    "data": "scatter/scatter-2d.json"
+                },
+                {
+                    "name": "time-scatter",
+                    "data": "scatter/time-scatter.json"
+                }
+            ]
+        },
+        {
+            "mTitle": "sankey",
+            "cTitle": [
+                {
+                    "name": "sankey-diagram",
+                    "data": "sankey/sankey.json"
+                }
+            ]
+        }
+    ]
+}

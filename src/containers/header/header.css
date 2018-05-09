@@ -1,0 +1,62 @@
+.header {
+    height: 50px;
+    line-height: 50px;
+    width:100%;
+    position: fixed;
+    top:0px;
+    left:0px;
+    background:rgb(22,42,53);
+    display: flex;
+    z-index: 50;
+}
+
+.logo-left {
+    height: 50px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    line-height: 50px;
+    flex: 0 0 200px;
+}
+
+.App-logo {
+    height: 24px;
+    width: 32px;
+    vertical-align: middle;
+}
+
+.logo-left a {
+    color: #fff;
+    margin-left: 15px;
+}
+
+.title-right {
+    flex:1;
+    padding-right:30px;
+}
+
+.title-right li {
+    display: inline-block;
+    float:right;
+    box-sizing: border-box;
+}
+
+.title-right li  a {
+    width:100%;
+    padding:0 20px;
+    display: inline-block;
+    color:#fff;
+    font-size: 14px;
+}   
+
+
+.title-right li:nth-child(1)  a {
+    color:rgb(22,42,53);
+    height:30px;
+    line-height: 30px;
+    background:rgb(94,172,247);
+}
+
+
+.title-right li:nth-child(2)  a {
+    color:rgb(94,172,247);
+}

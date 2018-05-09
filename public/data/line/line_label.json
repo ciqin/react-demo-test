@@ -1,0 +1,6 @@
+{
+	"index": ["Death due to CVD", "Hospitalization Due to CVD", "Heart Failure", "Thromboembolism"], 
+	"columnTypes": ["Number", "Number", "Number", "Number", "Number", "Number", "Number"], 
+	"data": [[68,99,116,70,47,20,7], [20,33,29,32,12,4,0], [794,718,721,438,282,144,99], [94,75,111,72,46,26,9]], 
+	"columns": ["3", "6", "12", "18", "24", "30", "36"]
+}
